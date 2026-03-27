@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 안녕하세요! 전민재입니다
+# 👋 안녕하세요! 우재민입니다
 
 ### 🎨 프론트엔드 개발자 | React × TypeScript 전문가
 
