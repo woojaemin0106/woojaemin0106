@@ -2,7 +2,7 @@
   
 # 👋 안녕하세요! 우재민입니다
 
-### 🎨 프론트엔드 개발자 | React × TypeScript 전문가
+### 🎨 프론트엔드 개발자 
 
 ![banner](https://img.shields.io/badge/Frontend%20Developer-FF6B6B?style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -14,7 +14,7 @@
 
 ## 🚀 현재 진행 중
 
-- 🎮 **Blue Marble** 프로젝트 개발 중
+- 🎮 **Blue Marble** 프로젝트 디벨롭 중
 - 🌱 최신 React & TypeScript 기술 학습
 - 💡 사용자 경험을 중심으로 한 UI/UX 개선
 
